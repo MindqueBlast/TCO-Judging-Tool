@@ -127,4 +127,4 @@ for judge_scores in judges_data.values():
 averages = {name: round(mean(scores), 3) for name, scores in contestant_scores.items()}
 sorted_averages = dict(sorted(averages.items(), key=lambda x: -x[1]))
 for rank, (name, avg) in enumerate(sorted_averages.items(), start=1):
-    print(f"{rank:>2}. {name:<20} {avg:.3f}")
+    print(f"{rank}. {name}: {avg:.3f}")
