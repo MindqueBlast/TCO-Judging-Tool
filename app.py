@@ -86,7 +86,35 @@ judges_data = {
         {"name": "YokieBob", "score": 7.25}, {"name": "s300080423", "score": 8.5},
         {"name": "Vicioustrex", "score": 7}, {"name": "Griffinjiun", "score": 3.75},
         {"name": "Eyeinthesky", "score": 5.75}
-    ]
+    ],
+    "TML": [
+            {"name": "SNAKEY_11", "score": 3.75},
+            {"name": "Cookie", "score": 4.75},
+            {"name": "LivesadatLS", "score": 2.5},
+            {"name": "Dragoncode8", "score": 3.5},
+            {"name": "CocoPommel", "score": 7.0},
+            {"name": "LJE", "score": 6.5},
+            {"name": "Aarna", "score": 4.25},
+            {"name": "Beans", "score": 3.75},
+            {"name": "RadhaJiKoDaas", "score": 3.625},
+            {"name": "SonicTheHedgehog", "score": 6.375},
+            {"name": "kiaantolia", "score": 5.25},
+            {"name": "SilverWolf", "score": 5.0},
+            {"name": "lgcarnahan", "score": 1.0},
+            {"name": "JSCoder", "score": 2.375},
+            {"name": "NonPlayerCharacter", "score": 6.25},
+            {"name": "CodeSprite", "score": 4.5},
+            {"name": "Programmrr00", "score": 2.5},
+            {"name": "IncPuchay", "score": 2.625},
+            {"name": "Fireball", "score": 6.0},
+            {"name": "RedRaven9", "score": 3.75},
+            {"name": "VVhiteTiger", "score": 6.75},
+            {"name": "YokieBob", "score": 7.0},
+            {"name": "s300080423", "score": 7.5},
+            {"name": "Vicioustrex", "score": 2.25},
+            {"name": "Griffinjiun", "score": 5.0},
+            {"name": "Eyeinthesky", "score": 3.75}
+        ]
 }
 
 # Combine all scores
