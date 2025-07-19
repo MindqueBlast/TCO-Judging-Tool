@@ -28,7 +28,7 @@ judges_data = {
                 {"name":"CodeSprite", "score": 7.5},
                 {"name":"Cookie", "score": 3.1},
                 {"name":"Cyan Spirit", "score": 6.5},
-                {"name":"Dragon Studios", "score": 3.8},
+                {"name":"DragonStudios", "score": 3.8},
                 {"name":"Dragoncode8", "score": 1.8},
                 {"name":"emvalle10", "score": 2.1},
                 {"name":"Eyeinthesky", "score": 3.4},
