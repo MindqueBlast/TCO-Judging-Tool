@@ -14,19 +14,19 @@ judges_data = {
         {"name": "RedRaven9", "score": 4.75}, {"name": "Lore", "score": 5.625}
     ],
     "Timothy": [
-        {"name": "SNAKEY_11", "score": 3.75}, {"name": "Cookie", "score": 4.75},
-        {"name": "LivesadatLS", "score": 2.5}, {"name": "Dragoncode8", "score": 3.5},
-        {"name": "CocoPommel", "score": 7.0}, {"name": "LJE", "score": 6.5},
-        {"name": "Aarna", "score": 4.25}, {"name": "Beans", "score": 3.75},
-        {"name": "RadhaJiKoDaas", "score": 3.625}, {"name": "SonicTheHedgehog", "score": 6.375},
-        {"name": "kiaantolia", "score": 5.25}, {"name": "SilverWolf", "score": 5.0},
+        {"name": "SNAKEY_11", "score": 2}, {"name": "Cookie", "score": 3.1},
+        {"name": "live.sadat", "score": 4.8}, {"name": "Dragoncode8", "score": 1.8},
+        {"name": "CocoPommel", "score": 7.9}, {"name": "LJE", "score": 8.3},
+        {"name": "Aarna", "score": 2.9}, {"name": "Beans", "score": 3.75},
+        {"name": "RadhaJiKoDaas", "score": 3.9}, {"name": "SonicTheHedgehog", "score": 3.6},
+        {"name": "kiaantolia", "score": 6.6}, {"name": "SilverWolf", "score": 8.5},
         {"name": "lgcarnahan", "score": 1.0}, {"name": "JSCoder", "score": 2.375},
-        {"name": "NonPlayerCharacter", "score": 6.25}, {"name": "CodeSprite", "score": 4.5},
-        {"name": "Programmrr00", "score": 2.5}, {"name": "IncPuchay", "score": 2.625},
-        {"name": "Fireball", "score": 6.0}, {"name": "RedRaven9", "score": 3.75},
-        {"name": "VVhiteTiger", "score": 6.75}, {"name": "YokieBob", "score": 7.0},
-        {"name": "s300080423", "score": 7.5}, {"name": "Vicioustrex", "score": 2.25},
-        {"name": "Griffinjiun", "score": 5.0}, {"name": "Eyeinthesky", "score": 3.75}
+        {"name": "NonPlayerCharacter", "score": 8.8}, {"name": "CodeSprite", "score": 7.5},
+        {"name": "Programmrr00", "score": 3.8}, {"name": "IncPuchay", "score": 4.8},
+        {"name": "Fireball", "score": 7.8}, {"name": "RedRaven9", "score": 2.9},
+        {"name": "VVhiteTiger", "score": 8.4}, {"name": "YokieBob", "score": 7.0},
+        {"name": "s300080423", "score": 9.2}, {"name": "Vicioustrex", "score": 3.8},
+        {"name": "Griffinjiun", "score": 4.8}, {"name": "Eyeinthesky", "score": 3.4}
     ],
     "Duke": [
         {"name": "NL", "score": 7.0}, {"name": "SnackerDavis", "score": 3.75},
